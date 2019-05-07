@@ -1,0 +1,47 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding:0;
+}
+.bg {
+    background-image: url("../Images/pixelStitch-page-001.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-item {
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    font-family: 'VT323', monospace;
+}
+.nav-item1 {
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    font-family: 'VT323', monospace;
+}
+.nav-item2 {
+    position: absolute;
+    top: 30%;
+    left: 2%;
+    font-family: 'VT323', monospace;
+}
+.nav-item3 {
+    position: absolute;
+    top: 40%;
+    left: 2%;
+    font-family: 'VT323', monospace;
+}
+.nav-item4 {
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    font-family: 'VT323', monospace;
+}
+p {
+    font-size: 70px;
+    color: 	#DA5350;
+    font-family: 'VT323', monospace;
+}
